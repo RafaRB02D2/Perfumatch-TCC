@@ -96,11 +96,6 @@ cadastro de informações da plataforma, incluindo:
 -   Geração de páginas individuais para novas notas;
 -   Gerenciamento das informações utilizadas pelo catálogo.
 
-> **Observação:** a versão atual não possui, no código administrativo
-> disponibilizado, uma área completa de edição e exclusão de
-> perfumes/notas. Portanto, essas funcionalidades não são consideradas
-> funcionalidades implementadas nesta versão.
-
 ------------------------------------------------------------------------
 
 ## Sistema de recomendação
